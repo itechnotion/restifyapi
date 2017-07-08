@@ -1,0 +1,10 @@
+{
+  "get_all_billers_fail": "All Biller data loaded successfully",
+  "get_all_billers_success": "Biller data loaded successfully",
+  "get_billers_by_id_fail": "Biller data loaded successfully",
+  "get_billers_by_id_success": "Biller data loaded successfully",
+  "get_user_fail": "Biller data loaded successfully",
+  "get_user_sucess": "Biller data loaded successfully"
+
+  
+}
