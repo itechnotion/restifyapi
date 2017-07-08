@@ -1,4 +1,4 @@
-var Biller = require('../models/billerModel');
+var Biller = require('../models/BillerModel');
 var biller = new Biller();
 
 
